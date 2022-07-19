@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="login">Loginni kiriting...</string>
+    <string name="parol">Parolni kiriting...</string>
+    <string name="signin">Sign In</string>
+    <string name="register">Ro`yhatdan o`tish</string>
+    <string name="name">ismingizni kiriting...</string>
+    <string name="surname">familyangizni kiriting...</string>
+</resources>
